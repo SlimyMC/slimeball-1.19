@@ -5,7 +5,7 @@ Slimeball is a powerful tool for server owners and Minecraft enthusiasts who wan
 
 If youn want to see player statistics from SlimyMC Networks use the SlimeballAPI for your own needs.
 
-<picture>import org.slimeball.SlimeballAPI;
+  ```import org.slimeball.SlimeballAPI;
 
 public class Example {
     public static void main(String[] args) {
@@ -46,4 +46,4 @@ public class Example {
         SlimeballAPI.stopServer();
     }
 }
-</picture>
+  ```
