@@ -41,9 +41,6 @@ public class Example {
 
         // Print the Skywars leaderboard to the console
         System.out.println("Skywars leaderboard:\n" + skywarsLeaderboard);
-
-        // Stop the Slimeball server
-        SlimeballAPI.stopServer();
     }
 }
   ```
