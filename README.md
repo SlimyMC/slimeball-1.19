@@ -3,7 +3,7 @@ Slimeball is a fork of the Minestom Minecraft server software, created as a depe
 Slimeball is a powerful tool for server owners and Minecraft enthusiasts who want to create their own customized Minecraft gameplay experience. With the ability to modify and customize the game rules, create custom plugins, and add new content, Slimeball offers endless possibilities for Minecraft server owners and players alike.
 
 
-If youn want to see player statistics from SlimyMC Networks use the SlimeballAPI for your own needs.
+If you want to request player statistics from SlimyMC use the SlimeballAPI for your own needs.
 
   ```import org.slimeball.SlimeballAPI;
 
